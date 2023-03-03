@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hdann", "hdann\hdann.csproj", "{0CFB6BCD-C48D-4933-BD58-9C875229708D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CFB6BCD-C48D-4933-BD58-9C875229708D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFB6BCD-C48D-4933-BD58-9C875229708D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFB6BCD-C48D-4933-BD58-9C875229708D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFB6BCD-C48D-4933-BD58-9C875229708D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {255F1B7E-0CE9-4AD2-9D4F-B04D1352801D}
+	EndGlobalSection
+EndGlobal

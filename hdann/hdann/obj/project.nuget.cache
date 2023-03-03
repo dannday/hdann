@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfX/f9W5oswWwyPqUK5ukpN2bAQe5vUNNd9sydkCMLlRV9xWORzk7im4z6ttLChkyjbBv1PWNzSDbljHDmqSUQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\danhh\\Desktop\\code\\git-s6\\hdann\\hdann\\hdann.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages' doesn't exist.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
